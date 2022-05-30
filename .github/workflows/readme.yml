@@ -19,7 +19,7 @@ jobs:
           deno-version: v1.x
 
       - name: Run script
-        uses: deno run --allow-all scripts/readme.ts
+        run: deno run --allow-all scripts/readme.ts
         env:
           MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
 
