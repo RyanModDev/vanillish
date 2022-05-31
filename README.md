@@ -1,10 +1,14 @@
-# Vanillish
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ryanccn/vanillish/main/icon.png" width="256" height="256" /><br /><br />
+  <span>Vanillish</span>
+</h1>
 
 A lightweight and beautiful vanilla experience.
 
 ## Mods
 
 <!-- MODS_START -->
+
 - [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
 - [BetterF3](https://modrinth.com/mod/8shC1gFX)
