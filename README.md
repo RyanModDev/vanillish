@@ -8,7 +8,6 @@ A lightweight and beautiful vanilla experience.
 ## Mods
 
 <!-- MODS_START -->
-
 - [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
 - [BetterF3](https://modrinth.com/mod/8shC1gFX)
