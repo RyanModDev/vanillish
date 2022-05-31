@@ -5,6 +5,10 @@
 
 A lightweight and beautiful vanilla experience.
 
+What Vanillish adds are **quality of life (QoL)** mods such as Mouse Tweaks to make your experience better, **aesthetic** mods such as Iris Shaders to make Minecraft look good, and **optimization** mods such as Sodium to make Minecraft fast and performant.
+
+Vanillish doesn’t change any sort of gameplay - it fully sticks to the original. Which, of course, means that it **can be used with any vanilla server** (and vanilla singleplayer worlds)! There are no new blocks or items added in the modpack, and there aren’t any sneaky cheat mods that are banned by servers.
+
 ## Mods
 
 <!-- MODS_START -->
