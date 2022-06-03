@@ -37,6 +37,7 @@ Vanillish doesn’t change any sort of gameplay - it fully sticks to the origina
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
 - [WTHIT](https://modrinth.com/mod/6AQIaxuO)
+- [bad packets](https://modrinth.com/mod/ftdbN0KK)
 <!-- MODS_END -->
 
 ## Scripts
