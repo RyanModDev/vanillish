@@ -23,3 +23,4 @@ jobs:
         env:
           RELEASE_NAME: ${{ github.event.release.name }}
           RELEASE_TAG: ${{ github.event.release.tag_name }}
+          MODRINTH_TOKEN: ${{ secrets.MODRINTH_TOKEN }}
