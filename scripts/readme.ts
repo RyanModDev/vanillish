@@ -1,10 +1,5 @@
 import { parse } from "https://deno.land/std@0.141.0/encoding/toml.ts";
 import { join } from "https://deno.land/std@0.141.0/path/mod.ts";
-import { config } from "https://deno.land/std@0.141.0/dotenv/mod.ts";
-
-await config({
-  path: ".env.local",
-});
 
 const MODS_DIR = join(Deno.cwd(), "pack", "mods");
 
@@ -54,7 +49,9 @@ console.log("Wrote new README");
 {
   const r = await fetch("https://api.modrinth.com/v2/project/vanillish", {
     method: "PATCH",
-    body: JSON.stringify({ body: newReadmeLines.join("\n") }),
+    body: JSON.stringify(
+      { body: newReadmeLines.join("\n") },
+    ),
     headers: {
       "Content-Type": "application/json",
       "Authorization": Deno.env.get("MODRINTH_TOKEN") ?? "",
