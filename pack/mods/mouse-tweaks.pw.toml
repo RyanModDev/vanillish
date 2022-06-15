@@ -1,14 +1,14 @@
 name = "Mouse Tweaks"
-filename = "MouseTweaks-forge-mc1.18-2.22.jar"
+filename = "MouseTweaks-fabric-mc1.18-2.22.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.18-2.22-forge/MouseTweaks-forge-mc1.18-2.22.jar"
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/1.18-2.22-fabric/MouseTweaks-fabric-mc1.18-2.22.jar"
 hash-format = "sha1"
-hash = "8de9df6854e267cb585d9b47447a46476cbf3b61"
+hash = "204b054b2dd027014c8dd346e64c4cd2cc1db9b0"
 mode = ""
 
 [update]
 [update.modrinth]
 mod-id = "aC3cM3Vq"
-version = "q0CGibTg"
+version = "475fj6e8"
