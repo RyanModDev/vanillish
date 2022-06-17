@@ -18,6 +18,7 @@ Vanillish doesn’t change any sort of gameplay - it fully sticks to the origina
 - [Continuity](https://modrinth.com/mod/1IjD5062)
 - [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV)
 - [Debugify](https://modrinth.com/mod/QwxR6Gcd)
+- [EntityCulling](https://modrinth.com/mod/NNAgCjsB)
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH)
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9)
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
