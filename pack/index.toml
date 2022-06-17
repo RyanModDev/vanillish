@@ -111,6 +111,11 @@ hash = "f8784a0fc67a28151c4b19fd6b8aab83cf76843aed4c49be5df6441a3e3c4960"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "444dd6ecd474caa0b51c133a42fc3a38fbfeaf5d51f0f39ca9f43091b659c2c5"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "3271fc1c210bc8c2dcd1cd58d80c683f4f7e6a3077c079920054b4483dcbcb33"
 metafile = true
