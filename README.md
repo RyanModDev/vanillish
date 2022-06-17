@@ -33,6 +33,7 @@ Vanillish doesn’t change any sort of gameplay - it fully sticks to the origina
 - [No Telemetry](https://modrinth.com/mod/hg77g4Pw)
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)
+- [Roughly Enough Items (REI)](https://modrinth.com/mod/nfn13YXA)
 - [Sodium](https://modrinth.com/mod/AANobbMI)
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
