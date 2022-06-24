@@ -36,6 +36,11 @@ hash = "1ea5b5fcfc11394ba1f11e8e581c02d638bb35c85f24d98f50bf04daea8955c1"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "13189f12fca03470e2bba093e2f70e46e069ed5421ed20a8657cab71d8897c30"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "fb056d772175c202b054fd2fa32ff8c3f98e618249f1078b8f2c6b24997a0f13"
 metafile = true
@@ -113,11 +118,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "f8784a0fc67a28151c4b19fd6b8aab83cf76843aed4c49be5df6441a3e3c4960"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "444dd6ecd474caa0b51c133a42fc3a38fbfeaf5d51f0f39ca9f43091b659c2c5"
 metafile = true
 
 [[files]]
