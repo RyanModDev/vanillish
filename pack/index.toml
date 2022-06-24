@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "1ea5b5fcfc11394ba1f11e8e581c02d638bb35c85f24d98f50bf04daea8955c1"
+hash = "89ba21e3753115ddf5670fd1063dac4f620b8ad8748a7702404a62081730f373"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "48940c3d311a2c814001ca89a4c2cb52274c8e698d6409457487b3f533c7ac6f"
+hash = "0f250ee12d204d8359a3326316a7f1ccb61b9b9ca0ef5511ed1fd3d2c152bcea"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e053654a7b3c9dc4f09eaf3e841b7bac22a11075f847ef22d8fe02ad266a19fb"
+hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
 metafile = true
 
 [[files]]
@@ -132,10 +132,10 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "4f83b1ed4b7b6c60db39a22a2f9b4c30ead0f475e27c6e98f0a16e69564269eb"
+hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c02f331f57bae6449084c268795a9ce08b094d824623e4ea86d65cc6297c1c0f"
+hash = "fd0fa6e033413cd1c6166e9616f1b5d60d863a836bf50329c202d4676d3c0877"
 metafile = true
