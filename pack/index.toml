@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "8f96ee6a786812f7d07824c838d60b56e6eee6139c00a158c43f3459c02d927a"
 metafile = true
@@ -27,12 +32,17 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "c9ed46d6905faeaa1cf90d66db1bb68be2556cbf44337de3f2c431da6d96cdc2"
+hash = "5e289f7ef37b75b340dde02ee3a11a92ba6d4f045fd4f67eb3647b18cf51f739"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "89ba21e3753115ddf5670fd1063dac4f620b8ad8748a7702404a62081730f373"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
@@ -47,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0f250ee12d204d8359a3326316a7f1ccb61b9b9ca0ef5511ed1fd3d2c152bcea"
+hash = "9eaeb257cd8970aa2469222f31ceb984954092a6dcf6e7be28d7330e2ea54b10"
 metafile = true
 
 [[files]]
@@ -67,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "b8a88586489c0989cec9176ff88761a212a19a77f01115bc167dbe60ac140ede"
+hash = "3f196a5ba67e18f52901014dd413376944faf11cbf2f35722a08ac6195dd363d"
 metafile = true
 
 [[files]]
@@ -92,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "a6c1932e906bd3532adb65f6c4c095e6bdbd4b9dcc2c525e31909f6583cb4a25"
+hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6b661b5a876138e7ae6611d70ad21640b0d51ba444c6bfded04edaf0bdfa2c5c"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -106,8 +116,13 @@ hash = "3564b7d6d1d3f807ed9a9a44e53b1eba9b887fa547237e428fa32b438f6439f4"
 metafile = true
 
 [[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "621f1b552bda5c12b9b9d85275364c0babb9c0a473781b308e69dfeb88e7e811"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "ef0ad7353b79f507bd76c56716e8a6fc717cf3ab90135e0466fe39eb4662ab92"
+hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
 metafile = true
 
 [[files]]
@@ -116,8 +131,18 @@ hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8e0dd19937c97f136cd5112c3a9231a6669d08a1d169d47b5e97b30a7248c0ad"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "f8784a0fc67a28151c4b19fd6b8aab83cf76843aed4c49be5df6441a3e3c4960"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "262747a4c510468917e3ba218fe95680e17ce80522661c65157d64a8ec40a62f"
 metafile = true
 
 [[files]]
@@ -131,11 +156,16 @@ hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "3cd671414f7cc6837135ce4b433eb54d20e82e211eafed23b171e1a2ad3e957f"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "fd0fa6e033413cd1c6166e9616f1b5d60d863a836bf50329c202d4676d3c0877"
+hash = "8c9cae7d59d985533459a47fb38c3371764bf6483e65c42e5c9521b05744f7fc"
 metafile = true
