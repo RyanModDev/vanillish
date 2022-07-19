@@ -28,7 +28,6 @@ There are no CurseForge mods at all, so no need to worry!
 ## Mods
 
 <!-- MODS_START -->
-
 - [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
 - [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
