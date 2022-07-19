@@ -41,11 +41,6 @@ const f = await Deno.readFile(
 );
 const file = new File([f], PACK_FILENAME);
 
-const g = await Deno.readFile(
-  join(Deno.cwd(), AUTO_UPDATE_FILENAME),
-);
-const gile = new File([g], AUTO_UPDATE_FILENAME);
-
 const form = new FormData();
 
 const data = {
@@ -56,12 +51,11 @@ const data = {
   "loaders": ["quilt", "fabric"],
   "featured": false,
   "project_id": "aBvDpMMt",
-  "file_parts": [PACK_FILENAME, AUTO_UPDATE_FILENAME],
+  "file_parts": [PACK_FILENAME],
   "dependencies": [],
 };
 form.append("data", JSON.stringify(data));
 form.append(PACK_FILENAME, file);
-form.append(AUTO_UPDATE_FILENAME, gile);
 
 const res = await fetch("https://api.modrinth.com/v2/version", {
   method: "POST",
