@@ -36,18 +36,8 @@ hash = "5e289f7ef37b75b340dde02ee3a11a92ba6d4f045fd4f67eb3647b18cf51f739"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "89ba21e3753115ddf5670fd1063dac4f620b8ad8748a7702404a62081730f373"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "13189f12fca03470e2bba093e2f70e46e069ed5421ed20a8657cab71d8897c30"
 metafile = true
 
 [[files]]
@@ -108,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "3564b7d6d1d3f807ed9a9a44e53b1eba9b887fa547237e428fa32b438f6439f4"
 metafile = true
 
 [[files]]
