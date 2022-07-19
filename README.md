@@ -21,6 +21,7 @@ Vanillish doesn’t change any sort of gameplay - it fully sticks to the origina
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB)
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH)
+- [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL)
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9)
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Indium](https://modrinth.com/mod/Orvt0mRa)
