@@ -16,6 +16,11 @@ hash = "cf1c8c1b2de20c6d260277ed690acbf02f876d901071eb6a2fb46135fd7455d7"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e6f7d05a47c717cbdef4b105f44d71b2f3202154e2517d6641d6661d01cad07c"
 metafile = true
@@ -23,6 +28,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "455c662cc51dec506f65b8989db19650093be75b704f2c674e8375c32e016a58"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
 metafile = true
 
 [[files]]
@@ -78,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "9870d86c56f25115c79ade562b9605c98af9b0b1ea13d3e93c4e8390be52f5b0"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "e47deab6f9e0ee7aacf07e85e6a16a44cac75c8b13b779508534a25589add192"
 metafile = true
 
 [[files]]
