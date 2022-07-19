@@ -9,9 +9,26 @@ What Vanillish adds are **quality of life (QoL)** mods such as Mouse Tweaks to m
 
 Vanillish doesn’t change any sort of gameplay - it fully sticks to the original. Which, of course, means that it **can be used with any vanilla server** (and vanilla singleplayer worlds)! There are no new blocks or items added in the modpack, and there aren’t any sneaky cheat mods that are banned by servers.
 
+## Installation
+
+### 1. MultiMC Auto-Updating Pack (recommended)
+
+[**Download here**](https://raw.githubusercontent.com/ryanccn/vanillish/main/auto-updating-pack.zip) or get one from any version on Modrinth later than v0.5.0.
+
+This is a MultiMC pack. You can import it into MultiMC and its forks (e.g. PolyMC) by `Add Instance > Import from zip`.
+
+### 2. Modrinth Pack (convenient)
+
+[**Vanillish on Modrinth**](https://modrinth.com/modpack/vanillish)
+
+These modpacks are hosted on [Modrinth](https://modrinth.com) and are one-off. You can visit [their documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/) for more information on how to install Modrinth modpacks.
+
+There are no CurseForge mods at all, so no need to worry!
+
 ## Mods
 
 <!-- MODS_START -->
+
 - [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
 - [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
