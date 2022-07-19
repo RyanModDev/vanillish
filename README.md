@@ -13,7 +13,7 @@ Vanillish doesn’t change any sort of gameplay - it fully sticks to the origina
 
 ### 1. MultiMC Auto-Updating Pack (recommended)
 
-[**Download here**](https://raw.githubusercontent.com/ryanccn/vanillish/main/auto-updating-pack.zip) or get one from any version on Modrinth later than v0.5.0.
+[**Download here**](https://raw.githubusercontent.com/ryanccn/vanillish/main/auto-updating-pack.zip)
 
 This is a MultiMC pack. You can import it into MultiMC and its forks (e.g. PolyMC) by `Add Instance > Import from zip`.
 
