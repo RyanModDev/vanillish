@@ -44,7 +44,6 @@ There are no CurseForge mods at all, so no need to worry!
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9)
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs)
 - [Indium](https://modrinth.com/mod/Orvt0mRa)
-- [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)
 - [Iris Shaders](https://modrinth.com/mod/YL57xq9U)
 - [JourneyMap](https://modrinth.com/mod/lfHFW1mp)
 - [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)
