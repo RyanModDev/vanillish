@@ -1,12 +1,12 @@
 name = "Vanillish"
 author = "Ryan Cao"
-version = "0.5.0"
+version = "0.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "090275f360c26f57fe71e4b8bb5cab5a24f97711a745c842cf4dc2a5a5af1865"
+hash = "30494da787e67ce473d773055f3335ce6cb4482f2d74a219cc0137e07c6242d4"
 
 [versions]
 fabric = "0.14.8"
