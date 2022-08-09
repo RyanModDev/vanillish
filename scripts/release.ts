@@ -12,7 +12,6 @@ if (!RELEASE_TAG) {
 }
 
 const PACK_FILENAME = `vanillish-${RELEASE_TAG}.mrpack`;
-const AUTO_UPDATE_FILENAME = "auto-updating-pack.zip";
 
 const { success: buildOk } = await Deno.run({
   cmd: [
