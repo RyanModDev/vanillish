@@ -38,6 +38,7 @@ There are no CurseForge mods at all, so no need to worry!
 - [Continuity](https://modrinth.com/mod/1IjD5062)
 - [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV)
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)
+- [EmuNO](https://modrinth.com/mod/RLrPqrNI)
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB)
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH)
 - [Fabrishot](https://modrinth.com/mod/3qsfQtE9)
