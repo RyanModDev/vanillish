@@ -1,0 +1,13 @@
+name = "EmuNO"
+filename = "emuno-0.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RLrPqrNI/versions/0.0.7/emuno-0.0.7.jar"
+hash-format = "sha1"
+hash = "d17c575e82dfa78460c2266276136020e209a5a2"
+
+[update]
+[update.modrinth]
+mod-id = "RLrPqrNI"
+version = "QJExwJdO"
