@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
+hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "79c8f0a39cb0d8e3b30341ad4190b81b283abb8f117adfb539506042e08e4f7e"
+hash = "01e23be2b0b85c174b6fdf2b561aee7299e4fd1bf7170945ab23b4bdafcce86a"
 metafile = true
 
 [[files]]
