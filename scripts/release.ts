@@ -48,7 +48,7 @@ const data = {
   "game_versions": [gameVersion],
   "version_type": "release",
   "loaders": ["fabric"],
-  "featured": false,
+  "featured": true,
   "project_id": "aBvDpMMt",
   "file_parts": [PACK_FILENAME],
   "dependencies": [],
