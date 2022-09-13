@@ -52,7 +52,6 @@ There are no CurseForge mods at all, so no need to worry!
 - [Lithium](https://modrinth.com/mod/gvQqBUqZ)
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM)
 - [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u)
-- [No Chat Reports](https://modrinth.com/mod/qQyHxfxd)
 - [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)
 - [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3)
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)
