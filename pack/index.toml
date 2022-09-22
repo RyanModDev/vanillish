@@ -146,11 +146,6 @@ hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
 
 [[files]]
-file = "mods/resounding.pw.toml"
-hash = "256369e5aa6f3f9dd3674e9327ce29dfff05840aa297eb1a2c6b4085b1be0483"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "0a0e26d9314d35a02434af8b2f6836ef2e5d6d39a90535a4371892e3d0e1c842"
 metafile = true
@@ -163,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
 metafile = true
 
 [[files]]
