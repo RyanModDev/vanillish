@@ -131,11 +131,6 @@ hash = "13699f3734855513b9bc9d6de3cf4a23b5c20bd83ac4ef825d0444880072fccf"
 metafile = true
 
 [[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "ebc51dded184382bffbe4b7aeec50c2817f440851926d8fb2aac848ad369bedb"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
 metafile = true
@@ -148,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "79721c68c3475400efab4fc288cc27e13d4337f649e1ca09527258c5abb49c52"
 metafile = true
 
 [[files]]
@@ -173,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
 metafile = true
 
 [[files]]
