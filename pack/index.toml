@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "0ab973df6c0d6139d8532853a6f039c24f115b3b16bdd7fe86237c6c3ccf1690"
+hash = "7b27058dd8666dc7da290a8f1027b9a514a71f2cae1aa1cd5e4cd10e06d9fa9a"
 metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "f75534f0b6580fadf95bef5efd6aacd25858bc0b3c8f64b648f72292c376324d"
+hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "049b71ecdbd76be84b4b2bd362aeb561e3d3c8b6415ec8726182631c3ef671e0"
+hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
 metafile = true
 
 [[files]]
@@ -147,12 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "0a0e26d9314d35a02434af8b2f6836ef2e5d6d39a90535a4371892e3d0e1c842"
+hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
 metafile = true
 
 [[files]]
