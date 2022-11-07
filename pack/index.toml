@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "3ae1a0c92775ab42564f96758eae529e8d08eb0d1010b5bb810208c71b8b2b4b"
+hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "66efe72f8835a60e9b441424a7bd1c554c97ebeb1ecdfce58570bd653ab6079a"
+hash = "891b38dca0f4c1ea986756e0fcd1ed45c832815d0cc56f57b4267534480d29e0"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "80366046a62a610cb3a5c3a8167caeea2e2857f7f19f363264d781c48eee57c6"
+hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
 metafile = true
 
 [[files]]
@@ -117,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
+hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "c0b8dcde9209582f6bdf00db9d6df59e9db51ee592020e7552576a3cf2109b04"
+hash = "137460be130a91349243be497e0e33f61d8631d271a1d420cbb37e4ddfd6ab62"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
+hash = "8b97c536c8f82660df709b65f7eee607d4e887f43e8c273cf98021ad9b9dce3e"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
+hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
 metafile = true
 
 [[files]]
@@ -172,10 +172,10 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
+hash = "ba96089d2fe192072b1164a191e34ada5ad4d487db239635597d52ec1d98c477"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e9c8538c8a6ab6a67808a2eece408e4da0144dd47024a00c15ea226781143d59"
+hash = "df435f2461df3750a6588b71a19a87299e82bb38b8c9080433c86a58d731ecad"
 metafile = true
