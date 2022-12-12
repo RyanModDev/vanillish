@@ -3,29 +3,29 @@
   <span>Vanillish</span>
 </h1>
 
-A lightweight and beautiful vanilla experience.
+A lightweight and beautiful almost vanilla experience.
 
-What Vanillish adds are **quality of life (QoL)** mods such as Mouse Tweaks to make your experience better, **aesthetic** mods such as Iris Shaders to make Minecraft look good, and **optimization** mods such as Sodium to make Minecraft fast and performant.
+What Vanillish adds to the table compared to other modpacks, are **quality of life (QoL)** mods such as Mouse Tweaks to make your experience better, **aesthetic** mods such as Iris Shaders to make Minecraft look good, and **optimization** mods such as Sodium to make Minecraft fast and performant.
 
-Vanillish doesn’t change any sort of gameplay - it fully sticks to the original. Which, of course, means that it **can be used with any vanilla server** (and vanilla singleplayer worlds)! There are no new blocks or items added in the modpack, and there aren’t any sneaky cheat mods that are banned by servers.
+Vanillish doesn’t change any sort of gameplay - it fully sticks to the original. Which, of course, means that it **can be used with any vanilla server** (and vanilla singleplayer worlds)! There are no new blocks or items added in the modpack, and there aren’t any malicious mods (such as cheats) that could get you banned by servers.
 
-## Installation
+## ⚙️ Installation
 
-### 1. MultiMC Auto-Updating Pack (recommended)
+### MultiMC Auto-Updating Pack (recommended)
 
-[**Download here**](https://raw.githubusercontent.com/ryanccn/vanillish/main/auto-updating-pack.zip)
+[![download](https://img.shields.io/badge/Download%20on-GitHub-2d333b?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/ryanccn/vanillish/main/auto-updating-pack.zip)
 
-This is a MultiMC pack. You can import it into MultiMC and its forks (e.g. PolyMC) by `Add Instance > Import from zip`.
+This is a MultiMC pack. You can import it into MultiMC and its forks (e.g. Prism Launcher) by `Add Instance > Import from zip`.
 
-### 2. Modrinth Pack (convenient)
+### Modrinth Pack (convenient)
 
-[**Vanillish on Modrinth**](https://modrinth.com/modpack/vanillish)
+[![modrinth](https://img.shields.io/badge/Download%20on-Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/modpack/vanillish)
 
-These modpacks are hosted on [Modrinth](https://modrinth.com) and are one-off. You can visit [their documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/) for more information on how to install Modrinth modpacks.
+This modpack is hosted with [Modrinth](https://modrinth.com) and is a one-off. You can visit [their documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/) for more information on how to install Modrinth modpacks.
 
-There are no CurseForge mods at all, so no need to worry!
+There are no CurseForge mods included in any way, so no need to worry!
 
-## Mods
+## 🗃️ Mods
 
 <!-- MODS_START -->
 - [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
@@ -66,6 +66,6 @@ There are no CurseForge mods at all, so no need to worry!
 - [bad packets](https://modrinth.com/mod/ftdbN0KK)
 <!-- MODS_END -->
 
-## Scripts
+## 🔧 Scripts
 
 Maintenance scripts are written in [Deno](https://deno.land/).
