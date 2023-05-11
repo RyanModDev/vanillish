@@ -1,13 +1,13 @@
 name = "Mouse Wheelie"
-filename = "mousewheelie-1.10.7+mc1.19.3.jar"
+filename = "mousewheelie-1.10.7+mc1.19.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/pgVpuqvW/mousewheelie-1.10.7%2Bmc1.19.3.jar"
+url = "https://cdn.modrinth.com/data/u5Ic2U1u/versions/C3dGBp1r/mousewheelie-1.10.7%2Bmc1.19.4.jar"
 hash-format = "sha1"
-hash = "bf07b4723df28d19174cf228c5db696759697f57"
+hash = "9c4aceae680e71fd74e89937cb796cb03346bb1a"
 
 [update]
 [update.modrinth]
 mod-id = "u5Ic2U1u"
-version = "pgVpuqvW"
+version = "C3dGBp1r"
