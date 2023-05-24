@@ -25,6 +25,4 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'chore(docs): update readme'
-          commit_user_name: "Ryan Cao's bot"
-          commit_user_email: '98804099+ryanccn-bot@users.noreply.github.com'
+          commit_message: "chore(docs): update readme"
