@@ -184,3 +184,8 @@ metafile = true
 file = "mods/wthit.pw.toml"
 hash = "6fdeef2f421de046fe114ba9bbed7f39922ebee47f69955af74eb1c9431657a5"
 metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
+metafile = true
