@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "a495c86a2fe4ddc04e2506d3f061a2a64e5f94395e2e271cb63f7316cdf31fd7"
+hash = "c95b82d06d8c016d063359e098f73f94b55f08bb86cc96848dbd6f43968fb458"
 metafile = true
 
 [[files]]
@@ -138,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "e34a6d645bcfcb5a677159ac959b19ef3fde39a066f7164b565f8877bc3de525"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "3cfc05fb0b8e65c629812676d771b2eac199bf3e13d64a06e6909f4743b00d0d"
 metafile = true
 
 [[files]]
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
+hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
 metafile = true
 
 [[files]]
@@ -177,5 +182,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d61cda61f5e1b65380cf6e430ba87ada792ac73e1de44473392ee3c68ff3b1a0"
+hash = "6fdeef2f421de046fe114ba9bbed7f39922ebee47f69955af74eb1c9431657a5"
 metafile = true

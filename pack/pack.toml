@@ -1,12 +1,12 @@
 name = "Vanillish"
 author = "Ryan Cao"
-version = "2.0.1"
+version = "2.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bb0be676ceddd4dc21b1f00ba58764455e7e9944c3dbe46b92735743b4b45b17"
+hash = "2b3cd05017e2f94d32fd1fc10313d1f9424e6d041f3304745c55d3a506470399"
 
 [versions]
 minecraft = "1.19.4"
