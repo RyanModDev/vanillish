@@ -63,6 +63,7 @@ There are no CurseForge mods included in any way, so no need to worry!
 - [Starlight (Fabric)](https://modrinth.com/mod/H8CaAYZC)
 - [Visuality](https://modrinth.com/mod/rI0hvYcd)
 - [WTHIT](https://modrinth.com/mod/6AQIaxuO)
+- [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR)
 - [bad packets](https://modrinth.com/mod/ftdbN0KK)
 <!-- MODS_END -->
 
