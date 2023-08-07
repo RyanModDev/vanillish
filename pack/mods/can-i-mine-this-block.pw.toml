@@ -1,0 +1,13 @@
+name = "cAn i MiNe thIS bLOCk?"
+filename = "can-i-mine-this-block-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fEwSlaoa/versions/lZ1YTSiE/can-i-mine-this-block-1.4.0.jar"
+hash-format = "sha1"
+hash = "61a5201d1e7c277b55fe740159c354a824be3b2e"
+
+[update]
+[update.modrinth]
+mod-id = "fEwSlaoa"
+version = "lZ1YTSiE"
