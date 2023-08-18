@@ -1,5 +1,5 @@
-import { parse } from "https://deno.land/std@0.141.0/encoding/toml.ts";
-import { join } from "https://deno.land/std@0.141.0/path/mod.ts";
+import { parse } from "https://deno.land/std@0.198.0/toml/mod.ts";
+import { join } from "https://deno.land/std@0.198.0/path/mod.ts";
 
 const MODS_DIR = join(Deno.cwd(), "pack", "mods");
 

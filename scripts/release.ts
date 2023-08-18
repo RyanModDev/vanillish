@@ -1,5 +1,5 @@
-import { parse } from "https://deno.land/std@0.141.0/encoding/toml.ts";
-import { join } from "https://deno.land/std@0.141.0/path/mod.ts";
+import { parse } from "https://deno.land/std@0.198.0/toml/mod.ts";
+import { join } from "https://deno.land/std@0.198.0/path/mod.ts";
 
 const RELEASE_NAME = Deno.env.get("RELEASE_NAME");
 const RELEASE_TAG = Deno.env.get("RELEASE_TAG");
@@ -13,19 +13,21 @@ if (!RELEASE_TAG) {
 
 const PACK_FILENAME = `vanillish-${RELEASE_TAG}.mrpack`;
 
-const { success: buildOk } = await Deno.run({
-  cmd: [
-    join(Deno.env.get("HOME") ?? "", "go", "bin", "packwiz"),
-    "modrinth",
-    "export",
-    "-o",
-    `../${PACK_FILENAME}`,
-  ],
+const { success: buildOk } = await new Deno.Command(
+  "packwiz",
+  {
+    args: [
+      "modrinth",
+      "export",
+      "-o",
+      `../${PACK_FILENAME}`,
+    ],
 
-  cwd: join(Deno.cwd(), "pack"),
-  stdout: "inherit",
-  stderr: "inherit",
-}).status();
+    cwd: join(Deno.cwd(), "pack"),
+    stdout: "inherit",
+    stderr: "inherit",
+  },
+).spawn().status;
 
 if (!buildOk) {
   Deno.exit(1);
