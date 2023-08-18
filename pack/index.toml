@@ -66,11 +66,6 @@ hash = "1bf521b9b5b19d542d7857de44241f09d86fc28a1e410b9193acea15c6ecdd24"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "312270e142843c8709d2768888f6a95572ed385d4b4aaf50526f1bfa667cf23c"
-metafile = true
-
-[[files]]
 file = "mods/customhud.pw.toml"
 hash = "261d68bf12acbc4f3f1520725b851bcb0aaeb56b868b808f8a97720a04382ee2"
 metafile = true
