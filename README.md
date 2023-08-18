@@ -39,7 +39,6 @@ There are no CurseForge mods included in any way, so no need to worry!
 - [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/VSNURh3q)
 - [Continuity](https://modrinth.com/mod/1IjD5062)
 - [CraftPresence](https://modrinth.com/mod/DFqQfIBR)
-- [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV)
 - [CustomHud](https://modrinth.com/mod/6jis0UTI)
 - [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)
 - [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)
